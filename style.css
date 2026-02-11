@@ -72,3 +72,21 @@ h3{
     opacity: 1;
     cursor: pointer;
 }
+
+/* mobile  */
+@media (max-width: 768px){
+    body{
+        font-size:14px;
+        justify-content: center;
+        display: flex;
+        margin-left: 60px;
+    }
+.box{
+ display: flex;
+}
+.a{
+    display: flex;
+    position: relative;
+    left:35px;
+}
+}
